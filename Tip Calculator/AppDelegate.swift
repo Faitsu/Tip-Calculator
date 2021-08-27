@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  Tip Calculator
 //
-//  Created by Elma de Roxas on 8/26/21.
+//  Created by Erica Chou on 8/26/21.
 //
 
 import UIKit
